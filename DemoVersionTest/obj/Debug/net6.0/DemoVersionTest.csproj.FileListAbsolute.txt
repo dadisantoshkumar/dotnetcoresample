@@ -1,0 +1,12 @@
+C:\Users\harshith_c\source\repos\DemoVersionTest\bin\Debug\net6.0\DemoVersionTest.deps.json
+C:\Users\harshith_c\source\repos\DemoVersionTest\bin\Debug\net6.0\DemoVersionTest.dll
+C:\Users\harshith_c\source\repos\DemoVersionTest\bin\Debug\net6.0\DemoVersionTest.pdb
+C:\Users\harshith_c\source\repos\DemoVersionTest\obj\Debug\net6.0\DemoVersionTest.csproj.AssemblyReference.cache
+C:\Users\harshith_c\source\repos\DemoVersionTest\obj\Debug\net6.0\DemoVersionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshith_c\source\repos\DemoVersionTest\obj\Debug\net6.0\DemoVersionTest.AssemblyInfoInputs.cache
+C:\Users\harshith_c\source\repos\DemoVersionTest\obj\Debug\net6.0\DemoVersionTest.AssemblyInfo.cs
+C:\Users\harshith_c\source\repos\DemoVersionTest\obj\Debug\net6.0\DemoVersionTest.csproj.CoreCompileInputs.cache
+C:\Users\harshith_c\source\repos\DemoVersionTest\obj\Debug\net6.0\DemoVersionTest.dll
+C:\Users\harshith_c\source\repos\DemoVersionTest\obj\Debug\net6.0\refint\DemoVersionTest.dll
+C:\Users\harshith_c\source\repos\DemoVersionTest\obj\Debug\net6.0\DemoVersionTest.pdb
+C:\Users\harshith_c\source\repos\DemoVersionTest\obj\Debug\net6.0\ref\DemoVersionTest.dll
